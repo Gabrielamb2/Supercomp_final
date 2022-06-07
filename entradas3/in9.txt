@@ -1,0 +1,5 @@
+9
+9
+TGACGATGA
+AGAAG-ATA
+2 -1 -1
